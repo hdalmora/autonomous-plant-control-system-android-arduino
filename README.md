@@ -10,6 +10,6 @@ O controle de luz é feito com uso do sensor LDR, o qual indica quando o nível 
 
 Imagens do sistema prototipado:
 
-![Poster](https://github.com/hdalmora/sistema-controle-plantas-arduino/blob/master/imagens/esquema-pinagem.jpg)
+![Poster](https://github.com/hdalmora/sistema-controle-plantas-arduino/blob/master/imagens/esquema-pinagem.png)
 ![Poster](https://github.com/hdalmora/sistema-controle-plantas-arduino/blob/master/imagens/imagem-1.jpg)
 ![Poster](https://github.com/hdalmora/sistema-controle-plantas-arduino/blob/master/imagens/imagem-2.jpg)
